@@ -1,6 +1,6 @@
 {
   "homepage": "https://finalfrontendcurrencyexchange.netlify.app/", 
-  "name": "final_frontend",
+  "name": "final_main",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
