@@ -2,7 +2,7 @@
 
 This project, developed for an Introduction to Engineering class, utilizes [React](https://reactjs.org/) and the [Fixer API](https://fixer.io/). to create a real-time currency converter.
 
-[PROJECT LINK ](introtoengzhanbolot.netlify.app)
+[PROJECT LINK ](https://introtoengzhanbolot.netlify.app)
 
 ![Main Page](https://github.com/kaydurgu/final_frontend/blob/main/public/pics/main.page.PNG)
 
