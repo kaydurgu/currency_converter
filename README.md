@@ -1,6 +1,6 @@
 # Real-Time Currency Converter
 
-This project is a real-time currency converter built using [React](https://reactjs.org/) and the [Fixer API](https://fixer.io/).
+This project, developed for an Introduction to Engineering class, utilizes [React](https://reactjs.org/) and the [Fixer API](https://fixer.io/). to create a real-time currency converter.
 
 [PROJECT LINK ](https://finalfrontendcurrencyexchange.netlify.app/)
 
