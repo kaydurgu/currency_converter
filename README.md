@@ -8,7 +8,7 @@ This project is a real-time currency converter built using [React](https://react
 
 ## Features
 
-- Converts between various currencies in real-time has 168 rates of 168 currencies
+- Converts between various currencies in real-time has rates of 168 currencies
    ![Currency Converter](https://github.com/kaydurgu/final_frontend/blob/main/public/pics/curr%20converter.PNG)
   
 - Additional conversion to unique units: qorot, nan, shoro, toibos, shaurma
